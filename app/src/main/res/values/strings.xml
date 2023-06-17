@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="location">location</string>
+    <string name="profile_icon">Profile icon</string>
+    <string name="category_image">category image</string>
+    <string name="back">back</string>
+    <string name="dish_image">Dish image</string>
+    <string name="add_to_cart">Добавить в корзину</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="close">Close</string>
+    <string name="pay">Оплатить %1$d ₽</string>
+    <string name="price_button">от %1$d р</string>
+    <string name="discount_banner">Discount banner</string>
+</resources>
